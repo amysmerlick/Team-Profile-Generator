@@ -16,15 +16,24 @@ This application was created for a manager that would like to easily generate a 
 
 # Tests 👀
 
-To use the program run
-node index.js
-To test the program run
-npm run test
+To use the program run "node index.js" in the terminal.
+***
+
+To test the program run "npm run test" in the terminal
 
 # Usage
+View the [Demo](https://drive.google.com/file/d/1QA_IkkaOlHErzhGPRILdTDvUQtQUyIbS/view?usp=sharing)
+
+***
+
+![Team Profile](https://user-images.githubusercontent.com/77814900/128059661-ae1794da-654d-4f11-abf9-8d898efca42d.png)
+
 ![Tests](https://user-images.githubusercontent.com/77814900/128057547-ac3b9886-60a2-4c17-bde3-beabbe4576c1.png)
+
 ![Node Index](https://user-images.githubusercontent.com/77814900/128057704-db91613f-6d75-4b3b-a65d-8b201f6f5037.png)
+
 ![Team Building](https://user-images.githubusercontent.com/77814900/128058613-76bfca31-80f9-4c81-85a2-26707bd19b0f.png)
+
 ![Team Generated](https://user-images.githubusercontent.com/77814900/128058478-34eb8b1e-0320-4c11-819e-c02a5fe1d923.png)
 
 
@@ -37,7 +46,7 @@ Amy Smerlick
 
 # Credits
 
-Trilogy, GitHub, Heroku
+Trilogy, GitHub, Bootstrap
 
 # License
 

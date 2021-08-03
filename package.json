@@ -1,0 +1,20 @@
+{
+  "name": "Team-Profile-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "INDEXCLASS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amysmerlick/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amysmerlick/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/amysmerlick/Team-Profile-Generator#readme"
+}
